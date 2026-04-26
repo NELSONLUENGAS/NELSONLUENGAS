@@ -7,22 +7,22 @@ Bucaramanga, Colombia · Open to remote opportunities (LATAM & international)
 
 ## About
 
-Fullstack JavaScript Developer with 3+ years building production web applications and leading technical teams. Strong backend foundation in REST API design, JWT authentication, role-based access control, and database modeling with PostgreSQL and MongoDB.
+Fullstack JavaScript Developer with 3+ years building production web applications and leading technical teams across Fintech, logistics, and marketplace platforms. Strong backend foundation in REST API design, JWT authentication, role-based access control, and database modeling with PostgreSQL and MongoDB.
 
-I apply Clean Architecture, SOLID principles, and Vertical Slicing to build maintainable, business-oriented systems. Currently leading a full rebuild of a freelance marketplace platform (Smart Women) with real-time features via WebSockets.
+I apply Clean Architecture, SOLID principles, and MVC to build maintainable, scalable, and business-oriented systems. Currently leading a full rebuild of Smart Women (smartwomen.io) — a freelance marketplace for female talent — introducing real-time features via WebSockets, a new design system, and agile project management workflows.
 
-Also a Bootcamp Instructor at Desafío Latam — having trained **300+ developers** across multiple cohorts in full-stack JavaScript development.
+Also a Fullstack JavaScript Instructor at Desafío Latam, having trained **300+ developers** across multiple cohorts in React, Node.js, REST APIs, authentication, and production-ready development practices.
 
 ---
 
 ## Tech Stack
 
-**Frontend** · React · Next.js · TypeScript · Vite · Tailwind CSS · HTML/CSS  
+**Frontend** · React · Next.js · TypeScript · Vite · Tailwind CSS · HTML/CSS · jQuery  
 **Backend** · Node.js · Express.js · Nest.js · REST APIs · WebSockets  
 **Databases** · PostgreSQL · MySQL · MongoDB · Sequelize  
 **Architecture** · Clean Architecture · SOLID · MVC · Vertical Slicing  
 **Auth & Security** · JWT · Cookie-based auth · RBAC · Middleware validation  
-**CMS & Other** · WordPress (custom themes & plugins) · PHP · Git
+**CMS & Other** · WordPress (custom themes & plugins) · PHP · Git · Figma
 
 ---
 
@@ -59,6 +59,31 @@ Currently leading a full platform rebuild. Key features in progress:
 
 ---
 
+### Evolutica Strategy LLC — Fintech Platform
+> Early-stage Fintech platform. *(private repo — company project)*
+
+- Designed and implemented secure REST APIs with JWT authentication and RBAC
+- Modeled and optimized relational databases for financial data
+- Developed reusable NPM libraries for shared components across the platform
+- Built and integrated a WordPress plugin to evaluate user credit availability in real time
+- Configured and managed VPS deployment and server infrastructure for production
+- Designed UI prototypes in Figma
+
+`Node.js` `Express` `PostgreSQL` `JWT` `WordPress` `PHP` `NPM` `Figma` `VPS`
+
+---
+
+### Darkblock & Avvy Tech — NFT Marketplace
+> Blockchain product for a US-based company. *(private repo — company project)*
+
+- Developed NFT marketplace features using Next.js
+- Integrated crypto wallets: MetaMask, Phantom, and Tezos
+- Built responsive UI components with Tailwind CSS
+
+`Next.js` `Tailwind CSS` `MetaMask` `Phantom` `Tezos` `Blockchain`
+
+---
+
 ## Teaching — Desafío Latam Bootcamp
 
 Fullstack JavaScript Instructor since August 2023.  
@@ -69,7 +94,7 @@ Each cohort covers:
 - React with Vite, routing, private routes, cookie-based authentication
 - Node.js, Express, MySQL, Sequelize, MVC architecture
 - JWT authentication and authorization, RBAC, middleware validation
-- REST API design, file uploads, form handling
+- REST API design, file uploads, form handling with backend storage
 - Capstone marketplace project simulating real production workflows
 
 Browse teaching repos and cohort exercises throughout this profile — they reflect the depth and breadth of what gets covered each generation.
