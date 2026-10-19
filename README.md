@@ -1,115 +1,113 @@
-# Nelson Andrés Luengas Silva
-**Fullstack JavaScript Developer** · React · Next.js · Node.js  
-Bucaramanga, Colombia · Open to remote opportunities (LATAM & international)  
-[LinkedIn](https://www.linkedin.com/in/nelsonluengas) · nelsonluengas2@gmail.com
+# Hi, I'm Nelson Luengas 👋
+
+**Fullstack JavaScript Developer** · React · Next.js · Node.js · NestJS
+Bucaramanga, Colombia · Open to remote opportunities (LATAM & international)
+
+[Portfolio](https://nelsonluengasdev.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/nelsonluengas) · [GitHub](https://github.com/NELSONLUENGAS) · nelsonluengas2@gmail.com
+
 
 ---
 
 ## About
 
-Fullstack JavaScript Developer with 3+ years building production web applications and leading technical teams across Fintech, logistics, and marketplace platforms. Strong backend foundation in REST API design, JWT authentication, role-based access control, and database modeling with PostgreSQL and MongoDB.
+I build business software that holds up in production: secure REST APIs, role-based access, well-modeled databases and interfaces people actually enjoy using.
 
-I apply Clean Architecture, SOLID principles, and MVC to build maintainable, scalable, and business-oriented systems. Currently leading a full rebuild of Smart Women (smartwomen.io) — a freelance marketplace for female talent — introducing real-time features via WebSockets, a new design system, and agile project management workflows.
+3+ years shipping web applications and leading technical teams across fintech, logistics and marketplace platforms. I work with Clean Architecture, SOLID and MVC to keep systems maintainable as they grow.
 
-Also a Fullstack JavaScript Instructor at Desafío Latam, having trained **300+ developers** across multiple cohorts in React, Node.js, REST APIs, authentication, and production-ready development practices.
+I also trained **300+ developers** as a Fullstack JavaScript Instructor at Desafío Latam.
+
+---
+
+## Live Demos
+
+Six products, six different industries, each modeled on real Colombian business rules. Open any of them and log in with the demo credentials shown on the login screen.
+
+| Project | Industry | What it solves | Demo |
+|---|---|---|---|
+| **COMANDA** | Restaurants | POS with table orders, kitchen display (KDS), cash register, delivery platforms, inventory and DIAN e-invoicing | [Live](https://comandasaborexpress.netlify.app/) |
+| **FleetCore** | Last-mile logistics | Dispatch, shipment tracking, drivers app, cash-on-delivery settlement and B2B client portal | [Live](https://fleetcore-logistics.netlify.app/) |
+| **Bitácora Clínica** | Healthcare | Scheduling, clinical records, health insurer (EPS) billing with RIPS, pharmacy and patient portal | [Live](https://bitacora-clinica-nl.netlify.app/) |
+| **PIZARRA** | Education | Grades and promotion, school coexistence protocols, tuition billing, enrollment reporting and family portal | [Live](https://pizarra-school.netlify.app/) |
+| **Ledger Capital** | Lending / Fintech | Loan origination with credit scoring, amortization, collections, risk provisioning and AML compliance | [Live](https://ledger-capital.netlify.app/) |
+| **PropHub** | Property management | Leases, rent collection, owner settlements, maintenance approvals and tenant & owner portals | [Live](https://prophub-rentals.netlify.app/) |
+
+---
+
+## Featured Work
+
+### Legal Process Monitoring Platform — for Colombian law firms
+> *(private — client project)*
+
+- Checks judicial processes every day and notifies lawyers on the platform and by email
+- Downloads the documents attached to each procedural publication automatically
+- Dashboard with the full history of every process
+
+### Smart Women — Freelance Marketplace Platform
+> Marketplace connecting clients with female freelance talent.
+> **Live:** [smartwomen.io](https://smartwomen.io) · **Staging (rebuild):** [clean.smartwomen.io](https://clean.smartwomen.io)
+
+Leading a full platform rebuild:
+- Real-time notifications and internal chat with **WebSockets**
+- Threaded messaging per project, service and client engagement
+- Agile project management workflows and a job board for companies
+- Email notifications and role-based access control
+- 120+ registered freelancers on the current production platform
+
+`React` `Node.js` `WordPress` `WebSockets` `REST APIs` `PostgreSQL`
+
+### Evolutica Strategy LLC — Fintech Platform
+> *(private — company project)*
+
+- Secure REST APIs with JWT authentication and RBAC
+- Relational database modeling and optimization for financial data
+- Reusable NPM libraries shared across the platform
+- WordPress plugin that evaluates user credit availability in real time
+- VPS deployment and production server management
+
+`Node.js` `Express` `PostgreSQL` `JWT` `WordPress` `PHP` `NPM` `Figma`
+
+### Calicosa — Corporate Website & Logistics Platform
+> Transport company operating in Argentina and 5 more countries.
+> **Live:** [calicosa.com.ar](https://calicosa.com.ar) *(private — client project)*
+
+- Built from scratch in PHP/WordPress, no page builders
+- Interactive national coverage map with route visualization
+- Contact form that routes inquiries by coverage area
+- User registration, multilingual support (i18n) and SEO improvements
+
+`WordPress` `PHP` `JavaScript` `i18n` `SEO`
+
+### Darkblock & Avvy Tech — NFT Marketplace
+> Blockchain product for a US-based company. *(private — company project)*
+
+- NFT marketplace features in Next.js
+- MetaMask, Phantom and Tezos wallet integrations
+
+`Next.js` `Tailwind CSS` `Web3`
 
 ---
 
 ## Tech Stack
 
-**Frontend** · React · Next.js · TypeScript · Vite · Tailwind CSS · HTML/CSS · jQuery  
-**Backend** · Node.js · Express.js · Nest.js · REST APIs · WebSockets  
-**Databases** · PostgreSQL · MySQL · MongoDB · Sequelize  
-**Architecture** · Clean Architecture · SOLID · MVC · Vertical Slicing  
-**Auth & Security** · JWT · Cookie-based auth · RBAC · Middleware validation  
-**CMS & Other** · WordPress (custom themes & plugins) · PHP · Git · Figma
+**Frontend** · React · Next.js · Angular · TypeScript · Vite · Tailwind CSS
+**Backend** · Node.js · Express · NestJS (incl. microservices) · C# / .NET · PHP · REST APIs · WebSockets
+**Databases** · PostgreSQL · MySQL · MongoDB · Sequelize
+**Architecture** · Clean Architecture · SOLID · MVC · Vertical Slicing
+**Auth & Security** · JWT · Cookie-based auth · RBAC · Middleware validation
+**Other** · WordPress (custom themes & plugins) · Git · Figma · VPS deployment
 
 ---
 
-## Featured Projects
+## Teaching — Desafío Latam
 
-### Smart Women — Freelance Marketplace Platform
-> Marketplace platform connecting clients with female freelance talent.  
-> **Live:** [smartwomen.io](https://smartwomen.io) · **Staging (rebuild):** [clean.smartwomen.io](https://clean.smartwomen.io)
+Fullstack JavaScript Instructor · Aug 2023 – Apr 2026 · **300+ students trained**
 
-Currently leading a full platform rebuild. Key features in progress:
-- Real-time notifications and internal chat using **WebSockets**
-- Threaded messaging per project, service, and client engagement
-- Agile project management workflows for complex freelance engagements
-- Job board for companies to publish open positions to freelancers
-- Email notification system and role-based access control
-- 120+ registered freelancers on current production platform
-
-`React` `Node.js` `WordPress` `WebSockets` `REST APIs` `PostgreSQL`
+Taught React with Vite, Node.js and Express, MySQL with Sequelize, JWT authentication, RBAC and REST API design, closing each cohort with a production-style marketplace capstone. Teaching repos and cohort exercises are throughout this profile.
 
 ---
 
-### Calicosa — Corporate Website & Logistics Platform
-> Transport and logistics company operating in Argentina and 5 additional countries.  
-> **Live:** [calicosa.com.ar](https://calicosa.com.ar) *(private repo — client project)*
+## Currently
 
-- Built from scratch in pure PHP/WordPress (no page builders)
-- Dynamic national coverage map with interactive route visualization
-- Smart contact form routing inquiries to departments by coverage area
-- User registration system and multilingual support (i18n)
-- Defined brand design system, color palette, and UI component library
-- SEO optimization improving organic search visibility and page load times
-
-`WordPress` `PHP` `JavaScript` `REST API Integration` `SEO` `i18n`
-
----
-
-### Evolutica Strategy LLC — Fintech Platform
-> Early-stage Fintech platform. *(private repo — company project)*
-
-- Designed and implemented secure REST APIs with JWT authentication and RBAC
-- Modeled and optimized relational databases for financial data
-- Developed reusable NPM libraries for shared components across the platform
-- Built and integrated a WordPress plugin to evaluate user credit availability in real time
-- Configured and managed VPS deployment and server infrastructure for production
-- Designed UI prototypes in Figma
-
-`Node.js` `Express` `PostgreSQL` `JWT` `WordPress` `PHP` `NPM` `Figma` `VPS`
-
----
-
-### Darkblock & Avvy Tech — NFT Marketplace
-> Blockchain product for a US-based company. *(private repo — company project)*
-
-- Developed NFT marketplace features using Next.js
-- Integrated crypto wallets: MetaMask, Phantom, and Tezos
-- Built responsive UI components with Tailwind CSS
-
-`Next.js` `Tailwind CSS` `MetaMask` `Phantom` `Tezos` `Blockchain`
-
----
-
-## Teaching — Desafío Latam Bootcamp
-
-Fullstack JavaScript Instructor since August 2023.  
-**300+ students trained** across multiple cohorts.
-
-Each cohort covers:
-- HTML, CSS, JavaScript fundamentals
-- React with Vite, routing, private routes, cookie-based authentication
-- Node.js, Express, MySQL, Sequelize, MVC architecture
-- JWT authentication and authorization, RBAC, middleware validation
-- REST API design, file uploads, form handling with backend storage
-- Capstone marketplace project simulating real production workflows
-
-Browse teaching repos and cohort exercises throughout this profile — they reflect the depth and breadth of what gets covered each generation.
-
----
-
-## Currently Working On
-
-- Full rebuild of Smart Women platform (new architecture, design system, real-time features)
-- Deepening microservices patterns with Nest.js
-- Improving testing strategies (unit + integration)
-
----
-
-## Contact
-
-Email: nelsonluengas2@gmail.com  
-LinkedIn: [linkedin.com/in/nelsonluengas](https://www.linkedin.com/in/nelsonluengas)
+- Rebuilding the Smart Women platform (new architecture, design system, real-time features)
+- Going deeper into NestJS microservices
+- Strengthening unit and integration testing
